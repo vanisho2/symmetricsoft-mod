@@ -1,5 +1,5 @@
-package symmetricsoft-mod
+package symmetricsoftmod
 
 func mod() {
-	
+
 }
