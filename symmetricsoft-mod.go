@@ -1,5 +1,0 @@
-package symmetricsoftmod
-
-func mod() {
-
-}
