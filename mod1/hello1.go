@@ -1,4 +1,4 @@
-package mod1
+package symmetricsoftmod
 
 import (
 	"fmt"
